@@ -1,7 +1,7 @@
 import Card from './Card.vue'
 
 export default {
-    title: 'Card',
+    title: 'Crd',
     component: Card,
     argTypes: {
         title: 'String',
