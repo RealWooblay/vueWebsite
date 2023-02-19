@@ -35,7 +35,7 @@
       .card {
           background-color: #fff;
           border-radius: .2rem;
-          box-shadow: rgb(140, 150, 150) 0px 1px 3px;
+          box-shadow: rgb(150, 150, 150) 0px 1px 3px;
           width: 350px;
           padding: .8rem;
           font-family: 'Quicksand', sans-serif;
