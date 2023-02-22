@@ -1,14 +1,15 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
+  <NavigationHeader></NavigationHeader>
 </template>
 
 <script>
-
+import NavigationHeader from './components/NavigationHeader.vue';
 
 export default {
   name: 'App',
   components: {
-
+    NavigationHeader
   }
 }
 </script>
